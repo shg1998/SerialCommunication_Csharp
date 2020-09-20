@@ -1,0 +1,10 @@
+C:\Users\Ahmad\Desktop\Source\protocol communication Examples\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe.config
+C:\Users\Ahmad\Desktop\Source\protocol communication Examples\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe
+C:\Users\Ahmad\Desktop\Source\protocol communication Examples\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.pdb
+C:\Users\Ahmad\Desktop\Source\protocol communication Examples\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Source\protocol communication Examples\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.Form1.resources
+C:\Users\Ahmad\Desktop\Source\protocol communication Examples\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\Source\protocol communication Examples\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\Source\protocol communication Examples\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Source\protocol communication Examples\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.exe
+C:\Users\Ahmad\Desktop\Source\protocol communication Examples\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.pdb
